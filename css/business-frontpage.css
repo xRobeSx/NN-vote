@@ -17,8 +17,7 @@ body {
 .business-header {
   height: 50vh;
   min-height: 300px;
-  background: url('./img/background.png') center bottom no-repeat;
-  background-color: #ff7e27;
+  background: #ff7e27 url('./img/background.png') center bottom no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
